@@ -1,0 +1,13 @@
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.exe
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.deps.json
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.runtimeconfig.json
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.runtimeconfig.dev.json
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.dll
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\bin\Debug\netcoreapp3.1\Laba4_task2.pdb
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.csprojAssemblyReference.cache
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.AssemblyInfoInputs.cache
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.AssemblyInfo.cs
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.csproj.CoreCompileInputs.cache
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.dll
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.pdb
+E:\laboratorka4\laboratorka4\Laba4_task2\Laba4_task2\obj\Debug\netcoreapp3.1\Laba4_task2.genruntimeconfig.cache
